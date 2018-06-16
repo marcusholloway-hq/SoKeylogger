@@ -1,6 +1,6 @@
 # SoKeylogger
 
-#### [README_EN]()
+#### [README_EN](https://github.com/S0mbruh/SoKeylogger/blob/master/README.md)
 
 ### О программе
 

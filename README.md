@@ -1,6 +1,6 @@
 # SoKeylogger
 
-#### [README_RU]()
+#### [README_RU](https://github.com/S0mbruh/SoKeylogger/blob/master/README_RU.md)
 
 ### About
 
